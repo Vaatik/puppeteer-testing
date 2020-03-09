@@ -1,126 +1,139 @@
 [
     {
-        "name": "UR Portofino ",
+        "name": "Camino Real Aeropuerto ",
         "stars": "4-star hotel",
-        "reviews": "Very good"
+        "reviews": "Very Good"
     },
     {
-        "name": "Fisa Rentals Gran Via Apartments "
-    },
-    {
-        "name": "Luxury & Stylish 2BD Apt. Retiro-Atocha-Prado "
-    },
-    {
-        "name": "H10 Casa de la Plata ",
-        "stars": "4-star hotel",
-        "reviews": "Exceptional",
-        "rating": "9.8"
-    },
-    {
-        "name": "Dorado Ibiza ",
-        "stars": "4-star hotel",
-        "reviews": "Fabulous",
-        "rating": "9.4"
-    },
-    {
-        "name": "CCIB Forum Deluxe Apartment "
-    },
-    {
-        "name": "Hostal Inter Plaza Mayor ",
-        "stars": "2 stars",
-        "reviews": "Review score"
-    },
-    {
-        "name": "Apartamentos Puente Miraflores "
-    },
-    {
-        "name": "Convent de la Missio ",
-        "stars": "5-star hotel",
-        "reviews": "Exceptional",
-        "rating": "9.7"
-    },
-    {
-        "name": "VIVA Eden Lago - All Inclusive ",
-        "stars": "4 stars",
-        "reviews": "Fabulous"
-    },
-    {
-        "name": "Hostel Friends Barcelona ",
-        "stars": "2 stars",
-        "reviews": "Good"
-    },
-    {
-        "name": "EddyRooms Barcelona "
-    },
-    {
-        "name": "Hotel Marbel ",
+        "name": "Hotel Embassy ",
         "stars": "3-star hotel",
         "reviews": "Good"
     },
     {
-        "name": "NWT Monserrat "
-    },
-    {
-        "name": "Inferniño Apartments "
-    },
-    {
-        "name": "Hostal Doña Carmen (Adults Only) "
-    },
-    {
-        "name": "Casa la Concha Boutique Hotel "
-    },
-    {
-        "name": "Smart Urban San Sebastián "
-    },
-    {
-        "name": "Hotel Hermanos Macias ",
-        "stars": "1-star hotel",
-        "reviews": "Good",
-        "rating": "9.4"
-    },
-    {
-        "name": "Laguna Park 2 ",
-        "stars": "2 stars",
+        "name": "Hotel Dos Naciones ",
+        "stars": "2-star hotel",
         "reviews": "Good"
     },
     {
-        "name": "PR San Nicolás ",
+        "name": "Hotel MX lagunilla ",
+        "stars": "4-star hotel",
+        "reviews": "Excellent"
+    },
+    {
+        "name": "Hotel Mina ",
+        "stars": "3-star hotel",
+        "reviews": "Good"
+    },
+    {
+        "name": "Capital O Frida Costazul ",
+        "stars": "2-star hotel",
+        "reviews": "Excellent"
+    },
+    {
+        "name": "Hotel Beverly ",
+        "stars": "4-star hotel",
+        "reviews": "Very Good"
+    },
+    {
+        "name": "Hotel Plaza Revolución ",
+        "stars": "4-star hotel",
+        "reviews": "Excellent"
+    },
+    {
+        "name": "Ibis Mexico Perinorte ",
+        "stars": "3-star hotel",
+        "reviews": "Good"
+    },
+    {
+        "name": "Hotel H - Fabiola Adults Only ",
+        "stars": "2-star hotel",
+        "reviews": "Good"
+    },
+    {
+        "name": "Stanza Hotel ",
+        "stars": "4-star hotel",
+        "reviews": "Excellent"
+    },
+    {
+        "name": "Sevilla Palace ",
+        "stars": "4-star hotel",
+        "reviews": "Excellent",
+        "rating": "9.4",
+        "price": "CAD 652"
+    },
+    {
+        "name": "Hostal Amigo ",
         "stars": "3 stars",
-        "reviews": "Superb"
-    },
-    {
-        "name": "La Casa Nova"
-    },
-    {
-        "name": "Hotel Blauet ",
-        "stars": "1-star hotel",
         "reviews": "Good"
     },
     {
-        "name": "Pensión La Cantarera "
-    },
-    {
-        "name": "H Juan"
-    },
-    {
-        "name": "Gran Hotel Monterrey & Spa ",
-        "stars": "5-star hotel",
-        "reviews": "Very good"
-    },
-    {
-        "name": "Hotel Helios Lloret ",
+        "name": "Euken 8 ",
         "stars": "4-star hotel",
-        "reviews": "Fabulous"
+        "reviews": "Good"
     },
     {
-        "name": "Protur Naisa Palma Hotel ",
+        "name": "Hotel Sevilla ",
         "stars": "4-star hotel",
-        "reviews": "Superb"
+        "reviews": "Good"
     },
     {
-        "name": "Room Mate Alba ",
+        "name": "Bocanada Guest House"
+    },
+    {
+        "name": "Hotel Amazonas"
+    },
+    {
+        "name": "Hotel Señorial ",
+        "stars": "3-star hotel",
+        "reviews": "Good"
+    },
+    {
+        "name": "El Diplomatico ",
         "stars": "4-star hotel",
-        "reviews": "Superb",
-        "rating": "9.8"
+        "reviews": "Very Good"
+    },
+    {
+        "name": "Capital O Monarca ",
+        "stars": "3-star hotel",
+        "reviews": "Very Good"
+    },
+    {
+        "name": "HOTEL ESTADIO S.A"
+    },
+    {
+        "name": "WTC HABITACIONES de LUJO EN CDMX"
+    },
+    {
+        "name": "Holiday Inn Mexico Coyoacan ",
+        "stars": "4-star hotel",
+        "reviews": "Excellent"
+    },
+    {
+        "name": "HOTEL ZARAGOZA INN BOUTIQUE"
+    },
+    {
+        "name": "Ibis Mexico Alameda ",
+        "stars": "3-star hotel",
+        "reviews": "Good"
+    },
+    {
+        "name": "Pedregal Palace ",
+        "stars": "3-star hotel",
+        "reviews": "Good"
+    },
+    {
+        "name": "Hostal Amigo Suites ",
+        "stars": "3 stars",
+        "reviews": "Good"
+    },
+    {
+        "name": "Mexico City Hostel ",
+        "stars": "2 stars",
+        "reviews": "Very Good",
+        "rating": "9.6",
+        "price": "CAD 227"
+    },
+    {
+        "name": "Hotel Aeropuerto"
     }
 ]

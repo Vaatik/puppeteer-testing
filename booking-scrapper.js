@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-let bookingUrl = 'https://www.booking.com/searchresults.en.html?label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQ24AQfIAQzYAQHoAQH4AQuIAgGoAgO4AuPBlvMFwAIB&sid=80975b25acbb3b3dc4ad83aa9651de28&sb=1&sb_lp=1&src=index&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Findex.fr.html%3Flabel%3Dgen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQ24AQfIAQzYAQHoAQH4AQuIAgGoAgO4AuPBlvMFwAIB%3Bsid%3D80975b25acbb3b3dc4ad83aa9651de28%3Bsb_price_type%3Dtotal%26%3B&ss=Espagne&is_ski_area=&checkin_year=2020&checkin_month=4&checkin_monthday=1&checkout_year=2020&checkout_month=4&checkout_monthday=30&group_adults=2&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1&ss_raw=espagne&ac_position=0&ac_langcode=fr&ac_click_type=b&dest_id=197&dest_type=country&place_id_lat=39.9878&place_id_lon=-3.69817&search_pageview_id=b2a00cf291c800b1&search_selected=true&search_pageview_id=b2a00cf291c800b1&ac_suggestion_list_length=5&ac_suggestion_theme_list_length=0';
+let bookingUrl = 'https://www.booking.com/searchresults.html?label=gen173nr-1DCAEoggI46AdIM1gEaCeIAQGYATG4AQfIAQzYAQPoAQH4AQKIAgGoAgO4Aum9mvMFwAIB&sid=9938cb56fb5220fde06cd845ac8b3d0d&sb=1&sb_lp=1&src=index&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Findex.html%3Flabel%3Dgen173nr-1DCAEoggI46AdIM1gEaCeIAQGYATG4AQfIAQzYAQPoAQH4AQKIAgGoAgO4Aum9mvMFwAIB%3Bsid%3D9938cb56fb5220fde06cd845ac8b3d0d%3Bsb_price_type%3Dtotal%26%3B&ss=Mexico+City%2C+Mexico+DF%2C+Mexico&is_ski_area=0&checkin_year=2020&checkin_month=5&checkin_monthday=2&checkout_year=2020&checkout_month=5&checkout_monthday=9&group_adults=2&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1&ac_position=0&ac_langcode=en&ac_click_type=b&dest_id=-1658079&dest_type=city&iata=MEX&place_id_lat=19.432863&place_id_lon=-99.133301&search_pageview_id=17f58bf4d9ad007b&search_selected=true&ss_raw=mexico';
 (async () => {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
@@ -21,7 +21,7 @@ let bookingUrl = 'https://www.booking.com/searchresults.en.html?label=gen173nr-1
                 hotelJson.stars = hotelelement.querySelector('i.bk-icon-wrapper.bk-icon-stars.star_track').innerText;
                 hotelJson.reviews = hotelelement.querySelector('div.bui-review-score__title').innerText;
                 hotelJson.rating = hotelelement.querySelector('span.review-score-badge').innerText;
-                hotelJson.price = hotelelement.querySelector('div.bui-price-display__value prco-inline-block-maker-helper').innerText;
+                hotelJson.price = hotelelement.querySelector('div.bui-price-display__value').innerText;
                 if(hotelelement.querySelector('strong.price')){
                     hotelJson.price = hotelelement.querySelector('strong.price').innerText;
                 }
@@ -43,5 +43,5 @@ let bookingUrl = 'https://www.booking.com/searchresults.en.html?label=gen173nr-1
     catch(e) {
 
     }
-
+    browser.close();
 })();
