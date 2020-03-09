@@ -1,8 +1,8 @@
 [
     {
         "name": "UR Portofino ",
-        "stars": "hôtel 4 étoiles",
-        "reviews": "Très bien"
+        "stars": "4-star hotel",
+        "reviews": "Very good"
     },
     {
         "name": "Fisa Rentals Gran Via Apartments "
@@ -12,50 +12,50 @@
     },
     {
         "name": "H10 Casa de la Plata ",
-        "stars": "hôtel 4 étoiles",
-        "reviews": "Exceptionnel",
-        "rating": "9,8"
+        "stars": "4-star hotel",
+        "reviews": "Exceptional",
+        "rating": "9.8"
     },
     {
         "name": "Dorado Ibiza ",
-        "stars": "hôtel 4 étoiles",
-        "reviews": "Superbe",
-        "rating": "9,4"
+        "stars": "4-star hotel",
+        "reviews": "Fabulous",
+        "rating": "9.4"
     },
     {
         "name": "CCIB Forum Deluxe Apartment "
     },
     {
         "name": "Hostal Inter Plaza Mayor ",
-        "stars": "2 étoiles",
-        "reviews": "Note"
+        "stars": "2 stars",
+        "reviews": "Review score"
     },
     {
         "name": "Apartamentos Puente Miraflores "
     },
     {
         "name": "Convent de la Missio ",
-        "stars": "hôtel 5 étoiles",
-        "reviews": "Exceptionnel",
-        "rating": "9,7"
+        "stars": "5-star hotel",
+        "reviews": "Exceptional",
+        "rating": "9.7"
     },
     {
         "name": "VIVA Eden Lago - All Inclusive ",
-        "stars": "4 étoiles",
-        "reviews": "Superbe"
+        "stars": "4 stars",
+        "reviews": "Fabulous"
     },
     {
         "name": "Hostel Friends Barcelona ",
-        "stars": "2 étoiles",
-        "reviews": "Bien "
+        "stars": "2 stars",
+        "reviews": "Good"
     },
     {
         "name": "EddyRooms Barcelona "
     },
     {
         "name": "Hotel Marbel ",
-        "stars": "hôtel 3 étoiles",
-        "reviews": "Bien "
+        "stars": "3-star hotel",
+        "reviews": "Good"
     },
     {
         "name": "NWT Monserrat "
@@ -74,27 +74,27 @@
     },
     {
         "name": "Hotel Hermanos Macias ",
-        "stars": "hôtel 1 étoile",
-        "reviews": "Bien ",
-        "rating": "9,4"
+        "stars": "1-star hotel",
+        "reviews": "Good",
+        "rating": "9.4"
     },
     {
         "name": "Laguna Park 2 ",
-        "stars": "2 étoiles",
-        "reviews": "Bien "
+        "stars": "2 stars",
+        "reviews": "Good"
     },
     {
         "name": "PR San Nicolás ",
-        "stars": "3 étoiles",
-        "reviews": "Fabuleux "
+        "stars": "3 stars",
+        "reviews": "Superb"
     },
     {
         "name": "La Casa Nova"
     },
     {
         "name": "Hotel Blauet ",
-        "stars": "hôtel 1 étoile",
-        "reviews": "Bien "
+        "stars": "1-star hotel",
+        "reviews": "Good"
     },
     {
         "name": "Pensión La Cantarera "
@@ -104,22 +104,23 @@
     },
     {
         "name": "Gran Hotel Monterrey & Spa ",
-        "stars": "hôtel 5 étoiles",
-        "reviews": "Très bien"
+        "stars": "5-star hotel",
+        "reviews": "Very good"
     },
     {
         "name": "Hotel Helios Lloret ",
-        "stars": "hôtel 4 étoiles",
-        "reviews": "Superbe"
+        "stars": "4-star hotel",
+        "reviews": "Fabulous"
     },
     {
         "name": "Protur Naisa Palma Hotel ",
-        "stars": "hôtel 4 étoiles",
-        "reviews": "Fabuleux "
+        "stars": "4-star hotel",
+        "reviews": "Superb"
     },
     {
-        "name": "Atlantic Garden Beach Mate ",
-        "stars": "3 étoiles",
-        "reviews": "Superbe"
+        "name": "Room Mate Alba ",
+        "stars": "4-star hotel",
+        "reviews": "Superb",
+        "rating": "9.8"
     }
 ]
